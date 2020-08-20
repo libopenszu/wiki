@@ -1,0 +1,19 @@
+:root {
+    --md-primary-fg-color: #861f41;
+    --md-primary-fg-color--light: #861f41;
+    --md-primary-fg-color--dark: #861f41;
+    --md-accent-fg-color: #8a8d8f;
+}
+
+@keyframes heart {
+    0%, 40%, 80%, 100% {
+        transform: scale(1);
+    }
+    20%, 60% {
+        transform: scale(1.15);
+    }
+}
+.heart {
+    animation: heart 1000ms infinite;
+    color: #c51104;
+}

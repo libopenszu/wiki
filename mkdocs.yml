@@ -1,0 +1,65 @@
+site_name: '小荔枝的百科'
+site_url: 'https://szu.wiki/'
+
+repo_name: 'libopenszu/wiki'
+repo_url: 'https://github.com/libopenszu/wiki'
+
+copyright: '除非另有声明，本网站内容采用知识共享署名-非商业性使用-相同方式共享授权。'
+
+nav:
+  - 粤海校区:
+    - 首页: yuehai/index/index.md
+#    - 建筑:
+#      - 宿舍:
+#
+  - 沧海校区:
+    - 首页: canghai/index/index.md
+  - 丽湖校区:
+    - 首页: lihu/index/index.md
+  - 通用:
+    - 校历:
+      - 2020-2021学年第一学期: universal/calendar/2020-2021-1/index.md
+    - 校区及建筑道路等命名变更: universal/buildings_and_roads_renaming/index.md
+    - 校园网络:
+      - 教学区: universal/network/teaching_area/index.md
+      - 宿舍区: universal/network/dormitory_area/index.md
+      - 校外访问: universal/network/vpn/index.md
+    - 校园邮箱:
+      - 教师电子邮箱: universal/email/teacher/index.md
+      - 学生电子邮箱: universal/email/student/index.md
+    - 微信公众号: universal/wechat_official_account/index.md
+  - 培养方案:
+    - 2020级:
+      - 计算机科学与技术: plans/2020/computer_science_and_technology/index.md
+  - 社团:
+    - 首页: associations/index/index.md
+  - 关于:
+    - 首页: index.md
+  - 紧急情况:
+    - 首页: emergency/index/index.md
+    - 自动体外心脏除颤器（AED）分布: emergency/aed/index.md
+
+theme:
+  features:
+    - tabs
+    - instant
+  language: 'zh'
+  name: 'material'
+
+extra:
+  social:
+    - icon: 'fontawesome/brands/github'
+      link: 'https://github.com/libopenszu'
+    - icon: 'fontawesome/brands/telegram'
+      link: 'https://t.me/szu_group'
+
+extra_css:
+  - 'css/extra.css'
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg

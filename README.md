@@ -1,2 +1,2 @@
 # szu.wiki
- Unofficial wiki for Shenzhen University.
+ An unofficial wiki for Shenzhen University.
