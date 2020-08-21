@@ -16,7 +16,7 @@
 [点击此处跳转至紧急情况页面。](./emergency/index/index.md)
 
 ## 版权信息
-![知识共享署名-非商业性使用-相同方式共享](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+![知识共享署名-非商业性使用-相同方式共享](./copyright.png)
 
 除非另有声明，本网站内容采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)授权。
 

@@ -36,7 +36,7 @@ nav:
   - 关于:
     - 首页: index.md
   - 紧急情况:
-    - 首页: emergency/index/index.md
+    - 生命救援或紧急情况: emergency/index/index.md
     - 自动体外心脏除颤器（AED）分布: emergency/aed/index.md
 
 theme:
