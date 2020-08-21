@@ -7,19 +7,25 @@ repo_url: 'https://github.com/libopenszu/wiki'
 copyright: '除非另有声明，本网站内容采用知识共享署名-非商业性使用-相同方式共享授权。'
 
 nav:
-  - 粤海校区:
-    - 首页: yuehai/index/index.md
+  - 校区:
+    - 粤海校区:
+      - 基本信息: university/yuehai/index/index.md
 #    - 建筑:
 #      - 宿舍:
 #
-  - 沧海校区:
-    - 首页: canghai/index/index.md
-  - 丽湖校区:
-    - 首页: lihu/index/index.md
+    - 沧海校区:
+      - 基本信息: university/canghai/index/index.md
+    - 丽湖校区:
+      - 基本信息: university/lihu/index/index.md
+    - 罗湖校区:
+      - 基本信息: university/luohu/index/index.md
   - 通用:
+    - 微信公众号: universal/wechat_official_account/index.md
     - 校历:
       - 2020-2021学年第一学期: universal/calendar/2020-2021-1/index.md
     - 校区及建筑道路等命名变更: universal/buildings_and_roads_renaming/index.md
+    - 校务信箱: universal/mailbox/index.md
+    - 校园卡: universal/school_card/index.md
     - 校园网络:
       - 教学区: universal/network/teaching_area/index.md
       - 宿舍区: universal/network/dormitory_area/index.md
@@ -27,12 +33,29 @@ nav:
     - 校园邮箱:
       - 教师电子邮箱: universal/email/teacher/index.md
       - 学生电子邮箱: universal/email/student/index.md
-    - 微信公众号: universal/wechat_official_account/index.md
-  - 培养方案:
-    - 2020级:
-      - 计算机科学与技术: plans/2020/computer_science_and_technology/index.md
-  - 社团:
-    - 首页: associations/index/index.md
+    - 校长午餐会: universal/luncheon/index.md
+    - 运动会:
+      - 彩色跑: universal/sports_meeting/color_run/index.md
+  - 学习:
+    - 绩点: learning/gpa/index.md
+    - 奖学金: learning/scholarship/index.md
+    - 培养方案:
+      - 2020级:
+        - 计算机科学与技术: learning/plans/2020/computer_science_and_technology/index.md
+    - 选课: learning/course_selecting/index.md
+  - 生活:
+    - 社团:
+      - 首页: living/associations/index/index.md
+      - 深圳大学信息网络安全协会: living/associations/3001/index.md
+    - 团学组织:
+      - 首页: living/tuanxue/index/index.md
+    - 校友会/同乡会:
+      - 福建分会（筹）: living/alumni_associations/fujian/index.md
+      - 广东省:
+        - 揭阳: living/alumni_associations/guangdong/jieyang/index.md
+      - 江西: living/alumni_associations/jiangxi/index.md
+  - 新生特供:
+    - 首页: for_freshman/index/index.md
   - 关于:
     - 首页: index.md
     - 如何贡献: edit/index.md
@@ -43,7 +66,7 @@ nav:
 theme:
   features:
     - tabs
-    - instant
+#    - instant
   language: 'zh'
   name: 'material'
 
