@@ -1,6 +1,6 @@
 # 深大RobotPilots
 ## 战队简介
-深大RobotPilots战队，中文名机器人领航者，寓意争当机器人比赛中的领头羊。秉承着“坦诚、极致、忘我、志远、不功利”的宗旨，RobotPilots脚踏实地，不断进取。而今，RobotPilots即将迎来她的五岁生日。经过几年的磨练，RobotPilots已成长为由32名队员组成的大团体，在RoboMaster全国大学生机器人大赛上过关斩将，收获累累硕果。
+深大RobotPilots战队，中文名机器人领航者，寓意争当机器人比赛中的领头羊。秉承着“坦诚、极致、忘我、志远、不功利”的宗旨，RobotPilots脚踏实地，不断进取。经过几年的磨练，RobotPilots已成长为由32名队员组成的大团体，在RoboMaster全国大学生机器人大赛上过关斩将，收获累累硕果。
 
 ## 历史战绩
 ![zhanji](./zhanji.jpg)
