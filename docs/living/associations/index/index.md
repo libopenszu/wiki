@@ -6,4 +6,7 @@
 >
 > 连续两次以上（含两次）未参加（或未通过）年审的学生社团，则视为自然注销。[^1]
 
+## 扩展阅读
+[SZU创立社团流程详解 - 清的弦](https://mp.weixin.qq.com/s/dfndixFCklwxvxcpNbeDyA)
+
 [^1]: [关于公布深圳大学2018-2019学年学生社团年审结果的通知（有更新）—深圳大学内部网](https://www1.szu.edu.cn/board/view.asp?id=405265)

@@ -19,11 +19,11 @@ nav:
       - 基本信息: university/lihu/index/index.md
     - 罗湖校区:
       - 基本信息: university/luohu/index/index.md
+    - 校区及建筑道路等命名变更: university/buildings_and_roads_renaming/index.md
   - 通用:
     - 微信公众号: universal/wechat_official_account/index.md
     - 校历:
       - 2020-2021学年第一学期: universal/calendar/2020-2021-1/index.md
-    - 校区及建筑道路等命名变更: universal/buildings_and_roads_renaming/index.md
     - 校务信箱: universal/mailbox/index.md
     - 校园卡: universal/school_card/index.md
     - 校园网络:
@@ -48,6 +48,7 @@ nav:
       - 首页: living/associations/index/index.md
       - 深圳大学信息网络安全协会: living/associations/3001/index.md
       - 深圳大学RobotPilots机器人俱乐部: living/associations/15001/index.md
+      - 腾讯创新俱乐部: living/associations/18002/index.md
     - 团学组织:
       - 首页: living/tuanxue/index/index.md
     - 校友会/同乡会:
