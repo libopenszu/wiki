@@ -10,6 +10,7 @@
 | 深圳大学本科招生 | szubkzs |
 | 深圳大学后勤部 | szuhqb |
 | 深圳大学教务部 | szujwb |
+| 深圳大学社团联合会AU | szuau- |
 | 深圳大学图书馆 | szulibrary |
 | 深圳大学图书馆订阅号 | SZU_Library_DYH |
 | 深圳大学信息中心 | gh_a280c83dc0be |
