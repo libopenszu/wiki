@@ -18,8 +18,8 @@ X-NUCA’2018总决赛 二等奖[^3]
 ## 微信公众号
 ![微信公众号二维码](./qrcode.png)
 
-[^1]: [2019全国高校网安联赛](http://xnuca.erangelab.com/xnuca/news/20191230.html)
+[^1]: [2019年度全国高校网安联赛圆满落幕 - 2019全国高校网安联赛](http://xnuca.erangelab.com/xnuca/news/20191230.html)
 
 [^2]: [第十二届全国大学生信息安全竞赛-创新实践能力赛总决赛成绩和奖项 - 全国大学生信息安全竞赛官方网站](http://www.ciscn.cn/announcement/view/149)
 
-[^3]: [2018全国高校网安联赛](http://xnuca.erangelab.com/xnuca/news/20181208.html)
+[^3]: [天下有英雄，我独南行——X-NUCA’2018年度总决赛圆满落幕 - 2018全国高校网安联赛](http://xnuca.erangelab.com/xnuca/news/20181208.html)
