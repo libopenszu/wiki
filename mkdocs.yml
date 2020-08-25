@@ -58,11 +58,11 @@ nav:
     - 团学组织:
       - 首页: living/tuanxue/index/index.md
     - 校友会/同乡会:
-      - 福建分会（筹）: living/alumni_associations/fujian/index.md
+      - 福建省: living/alumni_associations/fujian/index.md
       - 广东省:
-        - 揭阳: living/alumni_associations/guangdong/jieyang/index.md
-        - 汕头: living/alumni_associations/guangdong/shantou/index.md
-      - 江西: living/alumni_associations/jiangxi/index.md
+        - 揭阳市: living/alumni_associations/guangdong/jieyang/index.md
+        - 汕头市: living/alumni_associations/guangdong/shantou/index.md
+      - 江西省: living/alumni_associations/jiangxi/index.md
   - 新生特供:
     - 首页: for_freshman/index/index.md
     - 深大盒子:
