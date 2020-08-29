@@ -26,6 +26,9 @@ nav:
       - 2020-2021学年第一学期: universal/calendar/2020-2021-1/index.md
     - 校务信箱: universal/mailbox/index.md
     - 校园卡: universal/school_card/index.md
+      - 主要功能:
+      - 充值方式:
+      - 校园卡中心:
     - 校园码: universal/school_qrcode/index.md
     - 校园网络:
       - 教学区: universal/network/teaching_area/index.md
@@ -40,12 +43,18 @@ nav:
   - 学习:
     - 绩点: learning/gpa/index.md
     - 奖学金: learning/scholarship/index.md
+    - 学习场所: 
+      - 图书馆:
+      - 自习室:
     - 培养方案:
       - 2020级:
         - 计算机科学与技术: learning/plans/2020/computer_science_and_technology/index.md
     - 选课: learning/course_selecting/index.md
+    - 考研:
   - 生活:
+    - 银行:
     - 健身房: living/gym/index.md
+    - 运动场所:
     - 社团:
       - 首页: living/associations/index/index.md
       - 深圳大学荔进社: living/associations/2001/index.md
