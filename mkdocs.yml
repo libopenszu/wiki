@@ -25,10 +25,10 @@ nav:
     - 校历:
       - 2020-2021学年第一学期: universal/calendar/2020-2021-1/index.md
     - 校务信箱: universal/mailbox/index.md
-    - 校园卡: universal/school_card/index.md
-      - 主要功能:
-      - 充值方式:
-      - 校园卡中心:
+    - 校园卡:
+      - 主要功能: universal/school_card/index.md
+      - 充值方式: universal/school_card/index.md
+      - 校园卡中心: universal/school_card/index.md
     - 校园码: universal/school_qrcode/index.md
     - 校园网络:
       - 教学区: universal/network/teaching_area/index.md
@@ -44,17 +44,14 @@ nav:
     - 绩点: learning/gpa/index.md
     - 奖学金: learning/scholarship/index.md
     - 学习场所: 
-      - 图书馆:
-      - 自习室:
+      - 图书馆: learning/rooms_for_individual_study/library/index.md
+      - 自习室: learning/rooms_for_individual_study/index.md
     - 培养方案:
       - 2020级:
         - 计算机科学与技术: learning/plans/2020/computer_science_and_technology/index.md
     - 选课: learning/course_selecting/index.md
-    - 考研:
+    - 考研: learning/index.md
   - 生活:
-    - 银行:
-    - 健身房: living/gym/index.md
-    - 运动场所:
     - 社团:
       - 首页: living/associations/index/index.md
       - 深圳大学荔进社: living/associations/2001/index.md
@@ -64,6 +61,8 @@ nav:
       - 腾讯创新俱乐部: living/associations/18002/index.md
       - 深圳大学魔方协会: living/associations/mofangxiehui/index.md
     - 水电费: living/utility_bill/index.md
+    - 体育场馆:
+      - 健身房: living/gym/index.md
     - 团学组织:
       - 首页: living/tuanxue/index/index.md
     - 校友会/同乡会:
@@ -89,6 +88,7 @@ nav:
   - 紧急情况:
     - 生命救援或紧急情况: emergency/index/index.md
     - 自动体外心脏除颤器（AED）分布: emergency/aed/index.md
+    - 心理咨询: emergency/psychological_counseling/index.md
 
 theme:
   features:
