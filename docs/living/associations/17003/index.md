@@ -16,19 +16,19 @@
 ![招新咨询群](./group.jpg){: style="max-width:360px;" }
 
 ## 海报
-![海报](./poster1.jpg)
+![海报](./poster1.jpg){: loading=lazy }
 
-![海报](./poster2.jpg)
+![海报](./poster2.jpg){: loading=lazy }
 
 ## 相关图片
-![](./image1.jpg)
+![](./image1.jpg){: loading=lazy }
 
-![](./image2.jpg)
+![](./image2.jpg){: loading=lazy }
 
-![](./image3.jpg)
+![](./image3.jpg){: loading=lazy }
 
-![](./image4.jpg)
+![](./image4.jpg){: loading=lazy }
 
-![](./image5.jpg)
+![](./image5.jpg){: loading=lazy }
 
-![](./image6.jpg)
+![](./image6.jpg){: loading=lazy }

@@ -9,7 +9,7 @@
 
 25年来，我们一直秉持着“思者善行，义利相通”的理念。旨在拓展同学们的财经知识，致力于为每一个对财经抱有热忱的小伙伴提供学习交流财经知识的平台，让每个人都能学有所成，学有所用。
 
-![财学大家庭](./image.png)
+![财学大家庭](./image.png){: loading=lazy }
 
 ## 微信公众号
 名称：深大财经学会
@@ -22,7 +22,7 @@
 ![财掌柜](./caizhanggui.png){: style="max-width:360px;" }
 
 ## 招新咨询群
-![招新咨询群](./group.png){: style="max-width:360px;" }
+![招新咨询群](./group.jpg){: style="max-width:360px;" }
 
 ## 报名链接
 ![报名链接](./questionnaire.png)
@@ -41,44 +41,44 @@
 ### 模拟炒股比赛
 与中行或其他证券机构联合举办，通过实际操盘感悟投资过程，还有超级丰富的奖品！
 
-![](./image1.png)
+![](./image1.png){: loading=lazy }
 
-![](./image2.png)
+![](./image2.png){: loading=lazy }
 
-![](./image3.png)
+![](./image3.png){: loading=lazy }
 
-![](./image4.png)
+![](./image4.png){: loading=lazy }
 
 ### 商科青年职业发展论坛
 如何抓住职业发展的脉络？嘉宾演讲、圆桌论坛，这些！可以帮你！
 
-![](./image5.png)
+![](./image5.png){: loading=lazy }
 
 ### 股票学习小组
 请来各大证券机构的专家讲师为大家传授知识，适合“小白”，也适合“老韭菜”，在这里确实收获颇丰。
 
-![](./image6.png)
+![](./image6.png){: loading=lazy }
 
-![](./image7.png)
+![](./image7.png){: loading=lazy }
 
-![](./image8.png)
+![](./image8.png){: loading=lazy }
 
-![](./image9.png)
+![](./image9.png){: loading=lazy }
 
-![](./image10.png)
+![](./image10.png){: loading=lazy }
 
 ### 企业参访
 证券机构实地参访，有关于机构的介绍，也有有趣的沙盘游戏，还有美味的下午茶！快来和我们一起吧！
 
-![](./image11.png)
+![](./image11.png){: loading=lazy }
 
-![](./image12.png)
+![](./image12.png){: loading=lazy }
 
-![](./image13.png)
+![](./image13.png){: loading=lazy }
 
-![](./image14.png)
+![](./image14.png){: loading=lazy }
 
-![](./image15.png)
+![](./image15.png){: loading=lazy }
 
 ## 团建活动（我们的吃喝玩乐）
 你以为我们只有严谨认真的学术活动吗？
@@ -91,10 +91,10 @@
 
 我们社团的小伙伴们会学也会玩！
 
-![](./image16.png)
+![](./image16.png){: loading=lazy }
 
-![](./image17.png)
+![](./image17.png){: loading=lazy }
 
-![](./image18.png)
+![](./image18.png){: loading=lazy }
 
-![](./image19.png)
+![](./image19.png){: loading=lazy }
