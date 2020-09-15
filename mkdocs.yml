@@ -55,20 +55,28 @@ nav:
   - 生活:
     - 社团:
       - 首页: living/associations/index/index.md
+      - 新社团:
+        - 深圳大学魔方协会: living/associations/mofangxiehui/index.md
       - 简阅艺文创新部落: living/associations/1001/index.md
       - 深圳大学荔进社: living/associations/2001/index.md
       - 深圳大学信息网络安全协会: living/associations/3001/index.md
       - 深圳大学招生志愿者协会: living/associations/4001/index.md
       - 深圳大学财经学会: living/associations/10001/index.md
+      - 深圳大学动漫协会: living/associations/10002/index.md
       - 大学生健康协会: living/associations/10003/index.md
       - 深圳大学书法协会: living/associations/10004/index.md
       - 戏剧社（校戏）: living/associations/10005/index.md
       - 绿色风环保协会: living/associations/10006/index.md
       - 粤语协会: living/associations/10008/index.md
       - 韩语协会: living/associations/10009/index.md
+      - 街头文化传播协会: living/associations/10010/index.md
+      - BG模特俱乐部: living/associations/10011/index.md
+      - 深大劲唱社: living/associations/10013/index.md
       - 摄影协会: living/associations/10014/index.md
+      - 汇影世纪电影协会: living/associations/10016/index.md
       - 深圳大学法学研究会: living/associations/10017/index.md
       - 深大手工创艺协会: living/associations/10018/index.md
+      - 深大流风诗社: living/associations/10019/index.md
       - 深圳大学吉他社: living/associations/10021/index.md
       - 思行社: living/associations/10022/index.md
       - 启言口才协会: living/associations/10023/index.md
@@ -77,6 +85,7 @@ nav:
       - 深圳大学魔术社: living/associations/10026/index.md
       - 深圳大学手语协会: living/associations/10027/index.md
       - 深圳大学天文协会: living/associations/10028/index.md
+      - 深圳大学励志社: living/associations/10029/index.md
       - 深圳大学英语协会: living/associations/10030/index.md
       - 深圳大学模型社: living/associations/10031/index.md
       - 一白主持队: living/associations/11001/index.md
@@ -102,8 +111,11 @@ nav:
       - 管理学院ERP俱乐部: living/associations/23003/index.md
       - 深圳大学人力资源学会: living/associations/23005/index.md
       - 深圳大学管理学院校聘社: living/associations/23006/index.md
+      - 深圳大学国诗社: living/associations/24001/index.md
+      - 兰亭书法社: living/associations/24003/index.md
       - 深圳大学青年纵横杂志社: living/associations/24004/index.md
       - 深圳大学历史研习社: living/associations/24005/index.md
+      - 韵意杂志社: living/associations/24007/index.md
       - 深圳大学电子与信息工程学院电子协会: living/associations/26002/index.md
       - 深圳大学定向越野俱乐部: living/associations/27001/index.md
       - 深圳大学毽球俱乐部: living/associations/27003/index.md
@@ -124,7 +136,6 @@ nav:
       - 深大ZEAL滑板社: living/associations/27025/index.md
       - 深大武术联合协会: living/associations/27027/index.md
       - 深圳大学电子竞技运动协会: living/associations/27028/index.md
-      - 深圳大学魔方协会: living/associations/mofangxiehui/index.md
     - 水电费: living/utility_bill/index.md
     - 体育场馆:
       - 健身房: living/gym/index.md
@@ -161,6 +172,10 @@ theme:
 #    - instant
   language: 'zh'
   name: 'material'
+
+google_analytics:
+  - UA-151983443-1
+  - auto
 
 extra:
   social:
