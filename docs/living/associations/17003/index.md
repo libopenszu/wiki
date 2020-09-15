@@ -13,7 +13,7 @@
 ![微信公众号二维码](./qrcode.jpg)
 
 ## 招新咨询群
-![招新咨询群](./group.jpg){: style="max-width:480px;" }
+![招新咨询群](./group.jpg){: style="max-width:360px;" }
 
 ## 海报
 ![海报](./poster1.jpg)
