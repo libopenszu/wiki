@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block analytics %}
+    {% if config.google_analytics %}
+        {% include "partials/integrations/analytics.html" %}
+    {% endif %}
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?b900980204d713e5ac6993494b492adf";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+{% endblock %}

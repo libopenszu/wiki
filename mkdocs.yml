@@ -167,11 +167,12 @@ nav:
     - 心理咨询: emergency/psychological_counseling/index.md
 
 theme:
+  name: 'material'
+  language: 'zh'
   features:
     - tabs
-#    - instant
-  language: 'zh'
-  name: 'material'
+  #    - instant
+  custom_dir: overrides
 
 google_analytics:
   - UA-151983443-1
